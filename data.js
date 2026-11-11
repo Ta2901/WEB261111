@@ -1,4 +1,4 @@
-// data.js : 내 영화 5편 데이터 / 여상수(09) / 10주차
+// data.js : 내 영화 5편 데이터 / 여상수(09) / 11주차
 // 영화 한 편 = 객체 하나. 키 5개 : title, year, date, rating, poster
 
 const movies = [
@@ -36,5 +36,12 @@ const movies = [
         date: "1997-07-12",
         rating: 8.3, 
         poster: "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg"
+    },
+    {
+        title: "암살자(들)", 
+        year: 2026, 
+        date: "2026-09-23",
+        rating: 7.2, 
+        poster: "/c55ijsOdntj6P25vDwHLdgsBpmV.jpg"
     }
 ];
